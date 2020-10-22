@@ -1,0 +1,148 @@
+@inproceedings{JKS-eurosp17,
+  address = {Paris, France},
+  month = apr,
+  publisher = {{IEEE} Press},
+  editor = {Andrei Sabelfeld and Matthew Smith},
+  acronym = {{EuroS\&P}'17},
+  booktitle = {{P}roceedings of the 2nd IEEE European Symposium on
+                 Security and Privacy ({EuroS\&P}'17)},
+  author = {Jacomme, Charlie and Kremer, Steve and Scerri, Guillaume},
+  title = {Symbolic Models for Isolated Execution Environments},
+  pages = {530-545},
+  year = {2018},
+  doi = {10.1109/EuroSP.2017.16},
+  url = {https://ieeexplore.ieee.org/document/7962001/},
+  abstract = {Isolated Execution Environments (IEEs), such as ARM
+                 TrustZone and Intel SGX, offer the possibility to
+                 execute sensitive code in isolation from other
+                 malicious programs, running on the same machine, or
+                 a potentially corrupted OS. A key feature of IEEs is
+                 the ability to produce reports binding
+                 cryptographically a message to the program that
+                 produced it, typically ensuring that this message is
+                 the result of the given program running on an
+                 IEE. We present a symbolic model for specifying and
+                 verifying applications that make use of such
+                 features. For this we introduce the S{\(\ell\)}APIC
+                 process calculus, that allows to reason about
+                 reports issued at given locations. We also provide
+                 tool support, extending the SAPIC/TAMARIN toolchain
+                 and demonstrate the applicability of our framework
+                 on several examples implementing secure outsourced
+                 computation (SOC), a secure licensing protocol and a
+                 one-time password protocol that all rely on such
+                 IEEs.}
+}
+
+@inproceedings{JK-ccs18,
+  address = {Toronto, Canada},
+  month = oct,
+  publisher = {ACM Press},
+  editor = {Backes, Michael and Wang, XiaoFeng},
+  acronym = {{CCS}'18},
+  booktitle = {{P}roceedings of the 25th {ACM} {C}onference
+               on {C}omputer and {C}ommunications {S}ecurity
+               ({CCS}'18)},
+  author = {Barthe, Gilles and Fan, Xiong and Gancher, Joshua and Gr{\'e}goire, Benjamin and Jacomme, Charlie and Shi, Elaine},
+  title = {Symbolic Proofs for Lattice-Based Cryptography},
+  pages = {538-555},
+  year = {2018},
+  pdf = {https://eprint.iacr.org/2018/765.pdf},
+  url = {https://dl.acm.org/citation.cfm?doid=3243734.3243825}
+}
+
+
+@inproceedings{JK-csf18,
+  address = {Oxford, UK},
+  month = jul,
+  publisher = {{IEEE} Computer Society Press},
+  editor = {Chong, Steve and Delaune, St{\'e}phanie},
+  acronym = {{CSF}'18},
+  booktitle = {{P}roceedings of the
+               31st {IEEE} {C}omputer {S}ecurity {F}oundations
+               {S}ymposium ({CSF}'18)},
+  author = {Jacomme, Charlie and Kremer, Steve},
+  title = {An extensive formal analysis of multi-factor authentication protocols},
+  pages = {1-15},
+  year = {2018},
+  doi = {10.1109/CSF.2018.00008},
+  pdf = {https://easychair.org/publications/preprint/m89p},
+  url = {https://ieeexplore.ieee.org/document/8429292/},
+  abstract = {Passwords are still the most widespread means for authenticating users, even though they have been shown to create huge security problems. This motivated the use of additional authentication mechanisms used in so-called multi-factor authentication protocols. In this paper we define a detailed threat model for this kind of protocols: while in classical protocol analysis attackers control the communication network, we take into account that many communications are performed over TLS channels, that computers may be infected by different kinds of malwares, that attackers could perform phishing, and that humans may omit some actions.  We formalize this model in the applied pi calculus and perform an extensive analysis and comparison of several widely used protocols - variants of Google 2-step and FIDO's U2F. The analysis is completely automated, generating systematically all combinations of threat scenarios for each of the protocols and using the ProVerif tool for automated protocol analysis. Our analysis highlights weaknesses and strengths of the different protocols, and allows us to suggest several small modifications of the existing protocols which are easy to implement, yet improve their security in several threat scenarios.}
+}
+
+@inproceedings{BGJKS-csf19,
+  address = {Hoboken, NJ, USA},
+  month = jul,
+  publisher = {{IEEE} Computer Society Press},
+  editor = {Delaune, St{\'e}phanie and Jia, Limin},
+  acronym = {{CSF}'19},
+  booktitle = {{P}roceedings of the
+               31st {IEEE} {C}omputer {S}ecurity {F}oundations
+               {S}ymposium ({CSF}'19)},
+  author = {Barthe, Gilles and Gr{\'e}goire, Benjamin and Jacomme, Charlie and Kremer, Steve and Strub, Pierre-Yves},
+  title = {Symbolic methods in computational cryptography proofs},
+  pages = {136-151},
+  year = 2019,
+  doi = {10.1109/CSF.2019.00017},
+  pdf = {https://hal.inria.fr/hal-02117794/document},
+  url = {https://hal.inria.fr/hal-02117794},
+  abstract = {Code-based game-playing is a popular methodology for proving security of cryptographic constructions and side-channel countermeasures. This methodology relies on treating cryptographic proofs as an instance of relational program verification (between probabilistic programs), and decomposing the latter into a series of elementary relational program verification steps. In this paper, we develop principled methods for proving such elementary steps for probabilistic programs that operate over finite fields and related algebraic structures. We focus on three essential properties: program equivalence, information flow, and uniformity. We give characterizations of these properties based on deducibility and other notions from symbolic cryptography. We use (sometimes improve) tools from symbolic cryptography to obtain decision procedures or sound proof methods for program equivalence, information flow, and uniformity. Finally, we evaluate our approach using examples drawn from provable security and from side-channel analysis-for the latter, we focus on the masking countermeasure against differential power analysis. A partial implementation of our approach is integrated in EASYCRYPT, a proof assistant for provable security, and in MASKVERIF, a fully automated prover for masked implementations.}
+}
+
+@InProceedings{BJK-lics20,
+  author =	 {Barthe, Gilles and Jacomme, Charlie and Kremer,
+                  Steve},
+  abstract =	 { We study equivalence checking of probabilistic
+                  programs, a fundamental problem which arises in many
+                  application areas including cryptography, privacy,
+                  algorithmic fairness and machine learning.  The
+                  programming language we consider manipulates
+                  polynomials over a finite field of characteristic
+                  $q$ and supports sampling and conditioning making it
+                  sufficiently expressive to encode boolean and
+                  arithmetic circuits. We consider two variants of the
+                  equivalence checking problem: the first one
+                  considers an interpretation over the finite field
+                  $\Fq$, while the second one, which we call universal
+                  equivalence, verifies equivalence over all
+                  extensions $\Fqk$ of $\Fq$. The universal variant
+                  typically arises in provable cryptography when one
+                  wishes to prove equivalence for any length of
+                  bitstrings, i.e., elements of $\F_{2^k}$ for any
+                  $k$.  While the first problem is obviously
+                  decidable, we establish its exact complexity which
+                  lies in the counting hierarchy. To show
+                  decidability, and a doubly exponential upper bound,
+                  of the universal variant we rely on results from
+                  algorithmic number theory and the possibility to
+                  compare local zeta functions associated to given
+                  polynomials. Finally we study several variants of
+                  the equivalence problem, including a problem we call
+                  majority, motivated by differential privacy.  },
+  title =	 {Universal equivalence and majority on probabilistic
+                  programs over finite fields},
+  booktitle =	 {{P}roceedings of the 35th {A}nnual {ACM}/{IEEE}
+                  {S}ymposium on {L}ogic in {C}omputer {S}cience ({LICS}'20)},
+  year =	 2020,
+  editor =	 {Naoki Kobayashi},
+  month =	 Jul,
+  address =	 {Saarbr\"ucken},
+  publisher =	 {ACM},
+  note =	 {To appear},
+  acronym =	 {{LICS}'20},
+  nmonth =	 7,
+}
+
+
+@inproceedings{CJS-ccs20,
+  	address =	{Orlando, USA},
+  	author =	{Comon, Hubert and Jacomme,Charlie and Scerri, Guillaume},
+  	booktitle =	{{P}roceedings of the 27st {ACM} {C}onference on {C}omputer and {C}ommunications {S}ecurity ({CCS}'20)},
+  	editor =	{Katz, Jonathan and Vigna, Giovanni},
+  	month =	nov,
+  	publisher =	{ACM Press},
+  	title =	{Oracle simulation: a technique for protocol composition with long term shared secrets},
+  	year =	{2020},
+	note = {To appear},
+}
