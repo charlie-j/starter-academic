@@ -6,18 +6,21 @@ authors:
 role: PhD of Computer Science
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Protocol Security
+  - Privacy
 social:
-  - icon_pack: ai
+  - icon_pack: fab
     link: https://github.com/charlie-j/
     icon: github
+  - icon_pack: fab
+    link: https://gitlab.inria.fr/cjacomme
+    icon: gitlab
+
 education:
   courses:
     - course: PhD in Computer Science
       institution: ENS Paris-Saclay
-      year: 2030
+      year: 2020
 user_groups:
   - Researchers
   - Visitors
