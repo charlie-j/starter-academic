@@ -1,6 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
+
 title: 'Oracle simulation: a technique for protocol composition with long term shared
   secrets'
 subtitle: ''
@@ -36,4 +37,8 @@ publication_types:
 abstract: ''
 publication: "*Proceedings of the 27st ACM Conference on Computer and Communications\
   \ Security (CCS'20)*"
+
+links:
+  - name: Long Version
+    url: 'long.pdf'
 ---
