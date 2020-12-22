@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Notes from a 10 days Workshop with Keith Johnstone"
-subtitle: "Some notes about improvisation in the theater"
+subtitle: "Some notes about improvisation in the theater (version française en bas)"
 summary: ""
 authors: []
 tags: []
@@ -31,6 +31,11 @@ projects: []
 
 I have been doing some improvisation theater for half of a decade now. In October 2018, I had the opportinity to participate in a 10 days Workshop with [Keith Johnstone](https://www.keithjohnstone.com/), one of the pioneers of improvisation.
 
-During this workshop, I took notes, that I have reworked about a year later and expanded with some of my thougts. Everything is now available [here](keith.pdf). Hopefully, it will be of interest to those that know Keith Johnstone, to those that do not yet, and to those who think they know Keith Johnstone.
+During this workshop, I took notes, that I have reworked about a year later and expanded with some of my thougts. Everything is now available [here](keith.pdf). A french translation is also availbale [here](keith_vf.pdf). Hopefully, it will be of interest to those that know Keith Johnstone, to those that do not yet, and to those who think they know Keith Johnstone.
 
-Disclaimer: those notes are my own retranscription of what I believe happened during the workshop. They are in no way a faithful retranscription, and some citations or thoughts may have been distorted. Keith may not be held accountable for any thoughts or citation appearing in those notes, and I may have hallucinated the whole thing.
+
+# Version Française
+
+Je fait de l'impro et autres arts vivants depuis 6 ans, et en 2018, j'ai eu l'occasion de participer à un Workshop de 10 jours avec  [Keith Johnstone](https://www.keithjohnstone.com/) à Londres.
+
+Pendant ce Workshop, j'ai pris des notes, que j'ai finallement mis au propre, et étendu avec mes propres idées. Vous trouvers la version française (qui n'est pas la version originale) [ici](keith_vf.pdf). J'espère que ça servira à ceux qui connaissent déjà Keith, à ceux qui ne le connaissent pas, et à ce qui pensent le connaître !
