@@ -36,6 +36,6 @@ During this workshop, I took notes, that I have reworked about a year later and 
 
 # Version Française
 
-Je fait de l'impro et autres arts vivants depuis 6 ans, et en 2018, j'ai eu l'occasion de participer à un Workshop de 10 jours avec  [Keith Johnstone](https://www.keithjohnstone.com/) à Londres.
+Je fais de l'impro et autres arts vivants depuis 6 ans, et en 2018, j'ai eu l'occasion de participer à un Workshop de 10 jours avec  [Keith Johnstone](https://www.keithjohnstone.com/) à Londres.
 
-Pendant ce Workshop, j'ai pris des notes, que j'ai finallement mis au propre, et étendu avec mes propres idées. Vous trouvers la version française (qui n'est pas la version originale) [ici](keith_vf.pdf). J'espère que ça servira à ceux qui connaissent déjà Keith, à ceux qui ne le connaissent pas, et à ce qui pensent le connaître !
+Pendant ce Workshop, j'ai pris des notes, que j'ai finallement mises au propre, et étendues avec mes propres idées. Vous trouverez la version française (qui n'est pas la version originale) [ici](keith_vf.pdf). J'espère que ça servira à ceux qui connaissent déjà Keith, à ceux qui ne le connaissent pas, et à ce qui pensent le connaître !
