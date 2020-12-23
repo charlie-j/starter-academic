@@ -1,6 +1,6 @@
 ---
 title: Teaching Ressources
-summary: Bellow can be found the multiple ressources developped for my teachings
+summary: Bellow can be found the multiple ressources for teaching
 date: "2020-10-10"
 
 reading_time: false  # Show estimated reading time?
@@ -19,9 +19,18 @@ header:
 
 Sadly, I am not currently giving any course. See you soon!
 
-# Archives
+# Ressources
 
 A set of some old ressources, made for courses I've given.
+
+## Formal models for Protocol security
+
+When writing my [thesis](../../publication/thesis/thesis.pdf), I have provided
+* in the Introduction a brief overview of all the building blocks of protocol security
+* in the chapter "Formal models for Protocols", a pi-calculus with both symbolic and computational semantics, which is also used in combination with the BC logic.
+
+This could probably serve as a base for an introduction to the formal security field.
+
 
 ## Tree automata techniques and applications
 
