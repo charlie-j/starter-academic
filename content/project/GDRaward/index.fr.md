@@ -1,23 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Squirrel Prover"
-summary: "[]()One of my main projects is out in the wild. Learn more on the [website](https://squirrel-prover.github.io) now!"
+title: "Prix de thèse"
+summary: "[]() J'ai reçu un prix de thèse, merci au jury ! Les infos sont [là](https://gdr-securite.irisa.fr/prix-de-these/)."
 authors: []
 tags: []
 categories: []
-date: 2021-04-26T17:38:21+02:00
+date: 2021-04-26T17:37:24+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://squirrel-prover.github.io"
+external_link: "https://gdr-securite.irisa.fr/prix-de-these/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ""
-  focal_point: ""
-  preview_only: false
+  focal_point: "smart"
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

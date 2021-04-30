@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Squirrel Prover"
-summary: "[]()One of my main projects is out in the wild. Learn more on the [website](https://squirrel-prover.github.io) now!"
+summary: "[]()L'un des mes principaux projest est en ligne. Plus d'infos (en Anglais) sur le [site](https://squirrel-prover.github.io) !"
 authors: []
 tags: []
 categories: []

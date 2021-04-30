@@ -8,13 +8,48 @@
   # contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 # Uncomment the lines below to configure your website in a second language.
-#[zh]
-#  languageCode = "zh-Hans"
-#  contentDir = "content/zh"
-#  title = "Chinese website title..."
-#  [zh.params]
-#    description = "Site description in Chinese..."
-#  [[zh.menu.main]]
-#    name = "Wo"
-#    url = "#about"
-#    weight = 1
+[fr]
+ languageCode = "fr-fr"
+ title = "Charlie Jacomme"
+ # [zh.params]
+ #   description = "Site description in Chinese..."
+[[fr.menu.main]]
+  name = "Accueil"
+  url = "#about"
+  weight = 10
+
+# [[fr.menu.main]]
+#   name = "Posts"
+#   url = "#posts"
+#   weight = 20
+
+# [[fr.menu.main]]
+#   name = "Projects"
+#   url = "#projects"
+#   weight = 30
+
+[[fr.menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 40
+
+[[fr.menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 60
+
+[[fr.menu.main]]
+  name = "Enseignement"
+  url = "teaching/teaching/"
+  weight = 50
+
+[[fr.menu.main]]
+  name = "Autres"
+  url = "post/"
+  weight = 55
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70

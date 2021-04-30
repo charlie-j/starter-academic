@@ -105,6 +105,17 @@ date_format = "Year"
     name = "authors"
     weight = 20.0
 
+DefaultContentLanguage = "en"
+[languages]
+  [languages.en]
+    title = "Charlie Jacomme"
+    languageName = "English"
+    weight = 1
+  [languages.fr]
+    title = "Charlie Jacomme"
+    languageName = "Français"
+    weight = 2
+
 # Install Wowchemy
 [module]
   [[module.imports]]
