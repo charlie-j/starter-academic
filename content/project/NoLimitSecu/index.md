@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Squirrel Prover"
-summary: "[]()L'un des mes principaux projet est en ligne. Plus d'infos (en Anglais) sur le [site](https://squirrel-prover.github.io) !"
+title: "NoLimitSecu Podcast"
+summary: "[]()I have been invited by the (french) podcast [NoLimitSecu](https://www.nolimitsecu.fr/) , dedicated to cybersecurity. The episode can be found [here](https://www.nolimitsecu.fr/preuves-de-protocoles/). They have lots of interesting stuff (in french), check it out!"
 authors: []
 tags: []
 categories: []
-date: 2021-04-26T17:38:21+02:00
+date: 2021-04-29T17:53:41+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://squirrel-prover.github.io"
+external_link: "https://www.nolimitsecu.fr/preuves-de-protocoles/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
