@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: An interactive prover for protocol verification in the computational model (To appear)
+title: An interactive prover for protocol verification in the computational model
 subtitle: ''
 summary: ''
 authors:
