@@ -32,11 +32,14 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T07:58:26.698188Z'
+publishDate: '2022-03-06T14:21:46.073076Z'
 publication_types:
 - '1'
 abstract: ''
 publication: "*Proceedings of the 25th ACM Conference on Computer and Communications\
   \ Security (CCS'18)*"
 url_pdf: https://dl.acm.org/citation.cfm?doid=3243734.3243825
+links:
+- name: URL
+  url: https://dl.acm.org/citation.cfm?doid=3243734.3243825
 ---

@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T07:58:26.899894Z'
+publishDate: '2022-03-06T14:21:46.477304Z'
 publication_types:
 - '1'
 abstract: "Passwords are still the most widespread means for authenticating users,\
@@ -51,4 +51,7 @@ publication: "*Proceedings of the 31st IEEE Computer Security Foundations Sympos
   \ (CSF'18)*"
 url_pdf: https://ieeexplore.ieee.org/document/8429292/
 doi: 10.1109/CSF.2018.00008
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/8429292/
 ---

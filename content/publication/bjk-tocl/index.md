@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-12-12T11:58:27.484392Z'
+publishDate: '2022-03-06T14:21:49.018354Z'
 publication_types:
 - '2'
 abstract: 'We study decidability problems for equivalence of probabilistic programs

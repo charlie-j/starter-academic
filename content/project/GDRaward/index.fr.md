@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Prix de thèse"
-summary: "[]() J'ai reçu un prix de thèse, merci au jury ! Les infos sont [là](https://gdr-securite.irisa.fr/prix-de-these/)."
+summary: "[]() J'ai reçu le prix de thèse du [GdR sécurité](https://gdr-securite.irisa.fr/prix-de-these/) ainsi qu'un accessit du prix [Gilles Kahn](https://www.societe-informatique-de-france.fr/2022/01/recherche-prix-de-these-gilles-kahn-laureats-2021/). Merci aux jurys !"
 authors: []
 tags: []
 categories: []
-date: 2021-04-26T17:37:24+02:00
+date: 2021-04-30T17:37:24+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://gdr-securite.irisa.fr/prix-de-these/"

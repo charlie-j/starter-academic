@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T07:58:27.105709Z'
+publishDate: '2022-03-06T14:21:47.013986Z'
 publication_types:
 - '1'
 abstract: 'Code-based game-playing is a popular methodology for proving security of
@@ -54,4 +54,7 @@ publication: "*Proceedings of the 31st IEEE Computer Security Foundations Sympos
   \ (CSF'19)*"
 url_pdf: https://hal.inria.fr/hal-02117794
 doi: 10.1109/CSF.2019.00017
+links:
+- name: URL
+  url: https://hal.inria.fr/hal-02117794
 ---

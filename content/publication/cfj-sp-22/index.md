@@ -1,16 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: An extensive formal analysis of multi-factor authentication protocols
+title: A Logic and an Interactive Prover for the Computational Post-Quantum Security
+  of Protocols (to appear)
 subtitle: ''
 summary: ''
 authors:
+- Cas Cremers
+- Caroline Fontaine
 - Charlie Jacomme
-- Steve Kremer
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-02-22T16:12:59+01:00
+date: '2022-01-01'
+lastmod: 2022-03-06T15:21:08+01:00
 featured: false
 draft: false
 
@@ -28,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-06T14:21:48.513631Z'
+publishDate: '2022-03-06T14:21:48.250755Z'
 publication_types:
-- '2'
+- '1'
 abstract: ''
-publication: '*ACM Transactions on Privacy and Security (TOPS)*'
+publication: "*Proceedings of the 43nd IEEE Symposium on Security and Privacy (S&P'22)*"
 ---

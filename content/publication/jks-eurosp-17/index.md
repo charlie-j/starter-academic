@@ -10,7 +10,7 @@ authors:
 - Guillaume Scerri
 tags: []
 categories: []
-date: '2017-04-01'
+date: '2018-04-01'
 lastmod: 2020-10-22T09:58:26+02:00
 featured: false
 draft: false
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-22T07:58:26.495481Z'
+publishDate: '2022-03-06T14:21:45.793539Z'
 publication_types:
 - '1'
 abstract: Isolated Execution Environments (IEEs), such as ARM TrustZone and Intel
@@ -48,4 +48,7 @@ publication: "*Proceedings of the 2nd IEEE European Symposium on Security and Pr
   \ (EuroS&P'17)*"
 url_pdf: https://ieeexplore.ieee.org/document/7962001/
 doi: 10.1109/EuroSP.2017.16
+links:
+- name: URL
+  url: https://ieeexplore.ieee.org/document/7962001/
 ---

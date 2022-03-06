@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "PhD Thesis Award"
-summary: "[]()I got an award for my thesis from the french computer security community. Check-it out (in french) [here](https://gdr-securite.irisa.fr/prix-de-these/)!"
+summary: "[]()I got the PhD thesis Award of the [GdR sécurité](https://gdr-securite.irisa.fr/prix-de-these/) as well as an accessit for the [Gilles Kahn](https://www.societe-informatique-de-france.fr/2022/01/recherche-prix-de-these-gilles-kahn-laureats-2021/) award. Thanks to the jurees!"
 authors: []
 tags: []
 categories: []
-date: 2021-04-26T17:37:24+02:00
+date: 2021-04-30T17:37:24+02:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://gdr-securite.irisa.fr/prix-de-these/"

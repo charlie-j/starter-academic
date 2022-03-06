@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Charlie Jacomme
 tags:
-- '"Computer security ; Formal methods ; Protocols ; Symbolic methods ; Computational
-  model ;"'
+- Computer security ; Formal methods ; Protocols ; Symbolic methods ; Computational
+  model ;
 categories: []
 date: '2020-10-01'
 lastmod: 2020-10-27T09:57:29+01:00
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-10-27T08:57:29.144159Z'
+publishDate: '2022-03-06T14:21:45.469512Z'
 publication_types:
 - '7'
 abstract: 'The use of communication protocols has become pervasive at all levels of
@@ -44,6 +44,9 @@ abstract: 'The use of communication protocols has become pervasive at all levels
   tional model; 3. symbolic methods for deciding basic proof steps in computational
   proofs, formulated as problems on probabilistic programs; 4. a prototype of a mechanized
   prover in the Computationally Complete Symbolic At- tacker model.'
-publication: 'PhD Thesis'
+publication: ''
 url_pdf: https://tel.archives-ouvertes.fr/tel-02972373
+links:
+- name: URL
+  url: https://tel.archives-ouvertes.fr/tel-02972373
 ---
