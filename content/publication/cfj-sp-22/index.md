@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: A Logic and an Interactive Prover for the Computational Post-Quantum Security
-  of Protocols (to appear)
+  of Protocols
 subtitle: ''
 summary: ''
 authors:
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-03-06T14:21:48.250755Z'
+publishDate: '2022-06-13T12:16:50.752936Z'
 publication_types:
 - '1'
 abstract: ''
-publication: "*Proceedings of the 43nd IEEE Symposium on Security and Privacy (S&P'22) - To appear*"
+publication: "*Proceedings of the 43nd IEEE Symposium on Security and Privacy (S&P'22)*"
 ---
