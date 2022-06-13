@@ -34,5 +34,5 @@ publishDate: '2022-03-06T14:21:48.250755Z'
 publication_types:
 - '1'
 abstract: ''
-publication: "*Proceedings of the 43nd IEEE Symposium on Security and Privacy (S&P'22) - To appear*"
+publication: "*Proceedings of the 43nd IEEE Symposium on Security and Privacy (S&P'22)*"
 ---
