@@ -1,20 +1,21 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Symbolic Proofs for Lattice-Based Cryptography
+title: 'Hash Gone Bad: Automated discovery of protocol attacks that exploit hash function
+  weaknesses'
 subtitle: ''
 summary: ''
 authors:
-- Gilles Barthe
-- Xiong Fan
-- Joshua Gancher
-- Benjamin Grégoire
+- Vincent Cheval
+- Cas Cremers
+- Alexander Dax
+- Lucca Hirschi
 - Charlie Jacomme
-- Elaine Shi
+- Steve Kremer
 tags: []
 categories: []
-date: '2018-10-01'
-lastmod: 2020-10-22T09:58:26+02:00
+date: '2023-01-01'
+lastmod: 2022-07-15T00:08:24+02:00
 featured: false
 draft: false
 
@@ -32,14 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-14T22:08:21.924736Z'
+publishDate: '2022-07-14T22:08:23.871517Z'
 publication_types:
 - '1'
 abstract: ''
-publication: "*Proceedings of the 25th ACM Conference on Computer and Communications\
-  \ Security (CCS'18)*"
-url_pdf: https://dl.acm.org/citation.cfm?doid=3243734.3243825
-links:
-- name: URL
-  url: https://dl.acm.org/citation.cfm?doid=3243734.3243825
+publication: '*USENIX Security Symposium (USENIX Security), 2023 - To appear*'
 ---
