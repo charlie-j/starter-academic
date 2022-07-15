@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-14T22:08:18.146979Z'
+publishDate: '2022-07-15T11:31:18.566286Z'
 publication_types:
 - '7'
 abstract: 'The use of communication protocols has become pervasive at all levels of

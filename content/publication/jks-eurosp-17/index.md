@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-14T22:08:21.634135Z'
+publishDate: '2022-07-15T11:31:18.775989Z'
 publication_types:
 - '1'
 abstract: Isolated Execution Environments (IEEs), such as ARM TrustZone and Intel

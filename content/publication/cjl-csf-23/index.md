@@ -1,20 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Symbolic Proofs for Lattice-Based Cryptography
+title: Subterm-based proof techniques for improving the automation and scope of security
+  protocol analysis
 subtitle: ''
 summary: ''
 authors:
-- Gilles Barthe
-- Xiong Fan
-- Joshua Gancher
-- Benjamin Grégoire
-- Charlie Jacomme
-- Elaine Shi
+- Cas Cremers
+- Charlie Jacome
+- Philip Lukert
 tags: []
 categories: []
-date: '2018-10-01'
-lastmod: 2020-10-22T09:58:26+02:00
+date: '2023-01-01'
+lastmod: 2022-07-15T13:30:46+02:00
 featured: false
 draft: false
 
@@ -32,14 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-07-15T11:31:18.993342Z'
+publishDate: '2022-07-15T11:31:21.222742Z'
 publication_types:
 - '1'
 abstract: ''
-publication: "*Proceedings of the 25th ACM Conference on Computer and Communications\
-  \ Security (CCS'18)*"
-url_pdf: https://dl.acm.org/citation.cfm?doid=3243734.3243825
-links:
-- name: URL
-  url: https://dl.acm.org/citation.cfm?doid=3243734.3243825
+publication: "*Proceedings of the 36th IEEE Computer Security Foundations Symposium\
+  \ (CSF'23) - To appear*"
 ---
