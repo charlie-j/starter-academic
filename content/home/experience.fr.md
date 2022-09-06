@@ -35,7 +35,17 @@ date_format = "Jan 2006"
   date_start = "2020-11-01"
   date_end = ""
   description = """Postdoc dans l'équipe de Cas Cremers.
-
   """
+
+[[experience]]
+  title = "Postdoc"
+  company = "Inria"
+  company_url = ""
+  location = "Paris"
+  date_start = "2022-09-01"
+  date_end = ""
+  description = """Postdoc dans l'équipe Prosecco avec Bruno Blanchet.
+  """
+
 
 +++

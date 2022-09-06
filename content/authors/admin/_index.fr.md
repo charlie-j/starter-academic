@@ -3,7 +3,7 @@ organizations: []
 superuser: true
 authors:
   - admin
-role: PostDoc au CISPA
+role: PostDoc à l'Inria Paris
 bio: ""
 social:
   - icon_pack: fab

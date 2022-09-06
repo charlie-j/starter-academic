@@ -3,7 +3,7 @@ organizations: []
 superuser: true
 authors:
   - admin
-role: PostDoc at CISPA
+role: PostDoc at Inria Paris
 bio: ""
 # interests:
 #   - Protocol Security

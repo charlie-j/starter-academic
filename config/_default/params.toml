@@ -92,19 +92,18 @@ show_related = {docs = true, page = false, post = false, project = true, publica
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "charlie.jacomme@cispa.de"
+email = "charlie.jacomme@inria.fr"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Stuhlsatzenhaus 5", city = "Saarbrücken", region = "", postcode = "66123", country = "Germany", country_code = "GE"}
+address = {street = "2 rue Simone Iff", city = "Paris", region = "", postcode = "75589", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "49.259886", longitude = "7.051936"}
-
+coordinates = {latitude = "48.84178894001361", longitude = "2.3846185293000346"}
 # Directions for visitors to locate you.
-directions = "CISPA – Helmholtz Center for Information Security"
+directions = "Inria Paris"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

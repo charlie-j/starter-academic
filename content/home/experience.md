@@ -33,9 +33,18 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Saarbrucken"
   date_start = "2020-11-01"
-  date_end = ""
+  date_end = "2022-07-31"
   description = """Postdoc in the team of Cas Cremers.
+  """
 
+[[experience]]
+  title = "Postdoc"
+  company = "Inria"
+  company_url = ""
+  location = "Paris"
+  date_start = "2022-09-01"
+  date_end = ""
+  description = """Postdoc in the Prosecco team with Bruno Blanchet.
   """
 
 +++
