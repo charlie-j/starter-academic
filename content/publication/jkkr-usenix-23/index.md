@@ -1,18 +1,18 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: A Logic and an Interactive Prover for the Computational Post-Quantum Security
-  of Protocols
+title: A comprehensive, formal and automated analysis of the EDHOC protocol
 subtitle: ''
 summary: ''
 authors:
-- Cas Cremers
-- Caroline Fontaine
 - Charlie Jacomme
+- Elise Klein
+- Steve Kremer
+- Maïwenn Racouchot
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2022-03-06T15:21:08+01:00
+date: '2023-01-01'
+lastmod: 2022-09-21T16:44:49+02:00
 featured: false
 draft: false
 
@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-21T14:44:48.460366Z'
+publishDate: '2022-09-21T14:44:49.226383Z'
 publication_types:
 - '1'
 abstract: ''
-publication: "*Proceedings of the 43nd IEEE Symposium on Security and Privacy (S&P'22)*"
+publication: '*USENIX Security Symposium (USENIX Security), 2023 - To appear*'
 ---
