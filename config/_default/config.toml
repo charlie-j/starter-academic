@@ -24,7 +24,7 @@ copyright = ""
 enableGitInfo = false
 
 # Default language to use (if you setup multilingual support)
-# defaultContentLanguage = "en"
+defaultContentLanguage = "en"
 hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
@@ -105,7 +105,7 @@ date_format = "Year"
     name = "authors"
     weight = 20.0
 
-DefaultContentLanguage = "en"
+# DefaultContentLanguage = "en"
 # [languages]
 #   [languages.en]
 #     title = "Charlie Jacomme"
