@@ -111,10 +111,10 @@ DefaultContentLanguage = "en"
     title = "Charlie Jacomme"
     languageName = "English"
     weight = 1
-  [languages.fr]
-    title = "Charlie Jacomme"
-    languageName = "Français"
-    weight = 2
+  # [languages.fr]
+  #   title = "Charlie Jacomme"
+  #   languageName = "Français"
+  #   weight = 2
 
 # Install Wowchemy
 [module]
