@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-02-20T09:24:40.647593Z'
+publishDate: '2023-05-09T07:38:20.786518Z'
 publication_types:
 - '1'
 abstract: ' We study equivalence checking of probabilistic programs, a fundamental

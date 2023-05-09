@@ -1,19 +1,19 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-
-title: 'Oracle simulation: a technique for protocol composition with long term shared
-  secrets'
+title: 'Automated Analysis of Protocols that use Authenticated Encryption: How Subtle
+  AEAD Differences can impact Protocol Security'
 subtitle: ''
 summary: ''
 authors:
-- Hubert Comon
+- Cas Cremers
+- Alexander Dax
 - Charlie Jacomme
-- Guillaume Scerri
+- Mang Zhao
 tags: []
 categories: []
-date: '2020-11-01'
-lastmod: 2020-10-22T09:58:27+02:00
+date: '2023-01-01'
+lastmod: 2023-05-09T09:38:21+02:00
 featured: false
 draft: false
 
@@ -31,14 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-09T07:38:20.854388Z'
+publishDate: '2023-05-09T07:38:21.451067Z'
 publication_types:
 - '1'
 abstract: ''
-publication: "*Proceedings of the 27st ACM Conference on Computer and Communications\
-  \ Security (CCS'20)*"
-
-links:
-- name: Long Version
-  url: long.pdf
+publication: '*USENIX Security Symposium (USENIX Security), 2023 - To appear*'
 ---
