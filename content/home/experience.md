@@ -43,8 +43,18 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Paris"
   date_start = "2022-09-01"
+  date_end = "2023-10-31"
+  description = """Postdoc in the [Prosecco](https://team.inria.fr/prosecco/) team with Bruno Blanchet.
+  """
+
+[[experience]]
+  title = "Full time researcher (Chargé de Recherche)"
+  company = "Inria Nancy"
+  company_url = ""
+  location = "Nancy"
+  date_start = "2024-01-01"
   date_end = ""
-  description = """Postdoc in the Prosecco team with Bruno Blanchet.
+  description = """Full time researcher in the [Pesto](https://team.inria.fr/pesto/) team.
   """
 
 +++

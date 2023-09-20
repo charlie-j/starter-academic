@@ -3,7 +3,7 @@ organizations: []
 superuser: true
 authors:
   - admin
-role: PostDoc at Inria Paris
+role: Full Time Researcher (CR) at Inria Nancy
 bio: ""
 # interests:
 #   - Protocol Security

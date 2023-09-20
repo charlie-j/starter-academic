@@ -31,9 +31,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-05-09T07:38:21.451067Z'
+publishDate: '2023-09-20T12:02:46.040815Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*USENIX Security Symposium (USENIX Security), 2023 - To appear*'
+# data/samples.yaml
+publication: "*USENIX Security Symposium (USENIX Security), 2023.*  <br> 🏆 *Distinguished Paper Award*"
 ---

@@ -1,3 +1,3 @@
-academic import --bibtex mybib.bib --overwrite
+academic import --bibtex mybib.bib
 
 # pip3 install -U academic
