@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "NoLimitSecu Podcast"
-summary: "[]()I have been invited by the (french) podcast [NoLimitSecu](https://www.nolimitsecu.fr/) , dedicated to cybersecurity. The episode can be found [here](https://www.nolimitsecu.fr/preuves-de-protocoles/). They have lots of interesting stuff (in french), check it out!"
+title: "Signal"
+summary: "[]()I did a formal analysis of Signal, which lead to several interesting findings and updates to the specification of the new [PQXDH](https://signal.org/blog/pqxdh/) protocol. This is joint work with Cryspen and Signal, and this [blog post](https://cryspen.com/post/pqxdh/) details everything!"
 authors: []
 tags: []
 categories: []
-date: 2021-04-29T17:53:41+02:00
+date: 2023-10-20T17:53:41+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.nolimitsecu.fr/preuves-de-protocoles/"
+external_link: "https://cryspen.com/post/pqxdh/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
