@@ -3,7 +3,8 @@ organizations: []
 superuser: true
 authors:
   - admin
-role: Full Time Researcher (CR) at Inria Nancy
+role: "Full Time Researcher (CR)
+at Inria Nancy"
 bio: ""
 # interests:
 #   - Protocol Security
@@ -33,10 +34,10 @@ email: ""
       <div class="col-md-5">
         <h3>Interests</h3>
         <ul class="ul-interests">          
-          <li>Protocol Security</li>          
+          <li>Secure Messaging</li>          
           <li>Privacy</li>          
           <li>Formal Methods</li>          
-          <li>Composition Frameworks</li>          
+          <li>Post-Quantum Security</li>          
         </ul>
       </div>
       <div class="col-md-7">
