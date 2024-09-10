@@ -19,8 +19,8 @@
 #   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#publications"
+  name = "Open Positions"
+  url = "positions/positions/"
   weight = 40
 
 [[main]]

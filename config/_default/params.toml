@@ -97,13 +97,13 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "2 rue Simone Iff", city = "Paris", region = "", postcode = "75589", country = "France", country_code = "FR"}
+address = {street = "LORIA, 615 Rue du Jardin-Botanique", city = "Vandœuvre-lès-Nancy", region = "", postcode = "54506", country = "France", country_code = "FR"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "48.84178894001361", longitude = "2.3846185293000346"}
+coordinates = {latitude = "48.665657173597985", longitude = "6.157897887242703"}
 # Directions for visitors to locate you.
-directions = "Inria Paris"
+directions = "Inria Nancy"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

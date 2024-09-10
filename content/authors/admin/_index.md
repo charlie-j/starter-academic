@@ -18,6 +18,9 @@ social:
   - icon_pack: fab
     link: https://gitlab.inria.fr/cjacomme
     icon: gitlab
+  - icon_pack: fas
+    link: mailto:charlie.jacomme@inria.fr
+    icon: envelope
 # education:
 #   courses:
 #     - course: PhD in Computer Science
@@ -28,7 +31,7 @@ user_groups:
   - Visitors
 highlight_name: false
 title: Charlie Jacomme
-email: ""
+email: "charlie.jacomme@inria.fr"
 ---
 <div class="row">      
       <div class="col-md-5">
@@ -63,9 +66,9 @@ email: ""
       <div class="col-md-5">
         <h3>Program committees</h3>
         <ul class="ul-interests">          
-           <li> <a href="https://www.usenix.org/conference/usenixsecurity24/call-for-papers">USENIX Security'24</a> </li>      			
-           <li> <a href="https://www.ieee-security.org/TC/EuroSP2023/">EuroS&P'23</a> </li>      		
-           <li>  <a href="https://www.ieee-security.org/TC/CSF2022/cfp.html">CSF'22</a>, <a href="https://www.ieee-security.org/TC/CSF2023/cfp.html">CSF'23</a> </li>      
+           <li> <a href="https://www.usenix.org/conference/usenixsecurity24/call-for-papers">USENIX Security'24</a>,  <a href="https://www.usenix.org/conference/usenixsecurity25/call-for-papers">25</a> </li>      			
+           <li>  <a href="https://www.ieee-security.org/TC/CSF2022/cfp.html">CSF'22</a>, <a href="https://www.ieee-security.org/TC/CSF2023/cfp.html">23</a>, <a href="https://www.ieee-security.org/TC/CSF2025/cfp.html">25</a> </li>		   
+           <li> <a href="https://www.ieee-security.org/TC/EuroSP2023/">EuroS&P'23</a> </li>      		      
            <li> <a href="https://indocrypt2021.lnmiit.ac.in/committees_pc.html">Indocrypt'21</a> </li>
         </ul>
       </div>
