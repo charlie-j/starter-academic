@@ -45,7 +45,16 @@ I welcome applications from anyone from anywhere, up to several important points
 * Academical excellency is *not* required, as grades often do not reflect the capacity to do research. 
 * Being open-minded and respectful *are* required. Notably, I do not tolerate intolerance, and I will not be able to collaborate with anybody showing signs of racism, sexism, transphobia, islamophobia, antisemitism, LGBTQIA+phobia, classism, ... (generally any kind of discriminatory behavior). I will also not be able to collaborate with people supporting acts such as wars, terrorism, colonisations, or genocides such as the ongoing palestinian genocide by the state of Israel.
 * For ecological reasons, I do not take the plane to travel. In addition, I would ideally only target conferences with open access publications. I will however compromise on this, as I want to do my utmost to give the desired career opportunities to students, and will thus also try to target conferences following the interests of students.
-* The picture on my homepage is deceiving: as per tradition, it is nicely outdated from around 2018, the main difference is that I am now frequently bald.
+
+As a final note, the picture on my homepage is deceiving: as per tradition, it is nicely outdated from around 2018, the main difference is that I am now frequently bald.
+
+## Concrete proposals
+
+Here are a couple of concrete proposals, but this is only a subset of what may be done, as said, I am happy to discuss and come up with a tailored made project.
+
+* [Internship proposal](../proposals/signal-shared-key-cryptoverif.pdf) for cryptographic proof of Signal Messenger that takes into account key reuse, using CryptoVerif (cryptographic proofs).
+* [Internship proposal](../proposals/multi-system-squirrel.pdf) for formalizing in its theory the support of multi-term in the Squirrel Prover (higher-order logic, interactive prover, OCaml implementation).
+* (past offer already taken) [Internship proposal](../proposals/compo-squirrel.pdf) for integrating a composition result inside the theory of the Squirrel Prover.
 
 ## Past supervisions
 
