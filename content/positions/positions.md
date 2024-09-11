@@ -64,4 +64,4 @@ It is always recomended to ask people what they think of your potential supervis
 * Alexander Dax (2022-2023, PhD student of Cas Cremers, part-time supervised during a post-doc)
 * Philip Lukert (2021-2022, PhD student of Cas Cremers, part-time supervised during a post-doc)
 
-Final tip: if you have read everything until there, you should include the world petrichore in your email! 
+Final tip: if you have read everything until there, you should include the word petrichore in your email! 
