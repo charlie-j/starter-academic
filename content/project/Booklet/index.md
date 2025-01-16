@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Videos"
-summary: "[]()I've starting making some vulgarization videos. There's a [one-minute](https://www.youtube.com/watch?v=w55nG_jLRLM) teaser preview for the Squirrel Prover, as well as a [thirteen minutes](https://www.youtube.com/watch?v=n-s_lGe44EM&t=72s) video outlining its main concepts and ideas. And in French, my thesis in [137 seconds](https://www.youtube.com/watch?v=kv5J64iI1iw)!"
+title: "The hitchiker's guide to a PhD"
+summary: "[]()I'm contributing to a short booklet meant to help students navigates their PhDs, and raise awereness about discrimation and harassment issues. All the infos are [here](https://not-in-our-labs.github.io/)."
 authors: []
 tags: []
 categories: []
-date: 2021-04-29T17:53:41+02:00
+date: 2024-04-29T17:53:41+02:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.ieee-security.org/TC/CSF2022/cfp.html"
+external_link: "https://not-in-our-labs.github.io/"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
