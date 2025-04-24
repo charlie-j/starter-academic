@@ -34,8 +34,8 @@ I'm Charlie (he/him), a _youngish_ (born in 1994) full-time researcher at Inria 
 My main research goal is to obtain formal guarantees over the security and privacy provided by security protocols (SSH, TLS/HTTPs, Signal,...). I develop, participate in and use several provers (computer programs that do, check or help us do security proofs), and I like to question the gaps between our formal models or proofs and the real-world. On the practical side, I am particularly interested in open-source applications that aim at improving the privacy of citizens, such as secure messaging applications (Signal, Matrix,...) and VPNs. 
 
 In a bit more details, my main working topics are:
-* development of the [Squirrel Prover](https://squirrel-prover.github.io/) (interactive prover for security protocols in higher-order logic, OCaml programing)
-* development of [CryptoVerif](https://bblanche.gitlabpages.inria.fr/CryptoVerif/) (cryptographic game hops, OCaml programing)
+* development of the [Squirrel Prover](https://squirrel-prover.github.io/) (interactive prover for security protocols in higher-order logic, OCaml programming)
+* development of [CryptoVerif](https://bblanche.gitlabpages.inria.fr/CryptoVerif/) (cryptographic game hops, OCaml programming)
 * proofs of security protocol (my current preference is on messaging protocols such as Signal/Matrix/... or privacy preserving projects such as WireGuard), using Squirrel/CryptoVerif/ProVerif/Tamarin/Sapic/...
 * foundational aspects of security protocols verification (developing practical composition results, gaps between our formal models/security definitions and the real-world, ...)
 * the transition to post-quantum secure protocols, for instance looking at the current development of hybride key-exchanges, e.g., [RosenPass](https://rosenpass.eu/).
