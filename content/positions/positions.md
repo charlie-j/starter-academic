@@ -18,13 +18,9 @@ header:
 
 # Internships/PhDs
 
-For each of my topics (see below for details, but here's a first quick keyword list: Formal Methods, Cryptography, Logic, Security Protocol, Privacy, Post-Quantum, OCaml), tailored master internship or PhD projects can be designed, depending on your desires and preferences, notably with a range of more theoretical/applied projects. 
+I have open PhD positions, see below for detailed proposals. In addition, for each of my topics (also see below for details, but here's a first quick keyword list: Formal Methods, Cryptography, Logic, Security Protocol, Privacy, Post-Quantum, OCaml), tailored master internship or PhD projects can be designed, depending on your desires and preferences, notably with a range of more theoretical/applied projects. 
 
 If you are interested, just contact me at charlie.jacomme@inria.fr with a brief description of yourself and we'll set up an online meeting.
-
-# Soon to be opened: postdocs/engineers
-
-I will receive funding in the _nearish_ future (final administrative process in progress...) for post-doc and engineers position, with a focus on the post-quantum part of the project. Detailed proposal will be published once the funding is officially in, but you can already contact me 
 
 
 # Research topics and me
@@ -52,6 +48,8 @@ As a final note, the picture on my homepage is deceiving: as per tradition, it i
 
 Here are a couple of concrete proposals, but this is only a subset of what may be done, as said, I am happy to discuss and come up with a tailored made project.
 
+* [PhD Thesis subject](../proposals/thesis-e-voting.pdf) for analyzing e-voting protocols with the Squirrel Prover.
+* [PhD Thesis subject](../proposals/thesis-secure-messaging.pdf) for analyzing post-quantum secure messaging protocols with the Squirrel Prover.
 * [Internship proposal](../proposals/multi-system-squirrel.pdf) for formalizing in its theory the support of multi-term in the Squirrel Prover (higher-order logic, interactive prover, OCaml implementation).
 * (past offer already taken) [Internship proposal](../proposals/signal-shared-key-cryptoverif.pdf) for cryptographic proof of Signal Messenger that takes into account key reuse, using CryptoVerif (cryptographic proofs).
 * (past offer already taken) [Internship proposal](../proposals/compo-squirrel.pdf) for integrating a composition result inside the theory of the Squirrel Prover.
