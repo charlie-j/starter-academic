@@ -48,9 +48,9 @@ As a final note, the picture on my homepage is deceiving: as per tradition, it i
 
 Here are a couple of concrete proposals, but this is only a subset of what may be done, as said, I am happy to discuss and come up with a tailored made project.
 
-* [PhD Thesis subject](../proposals/thesis-e-voting.pdf) for analyzing e-voting protocols with the Squirrel Prover.
-* [PhD Thesis subject](../proposals/thesis-secure-messaging.pdf) for analyzing post-quantum secure messaging protocols with the Squirrel Prover.
+* (probably already taken) [PhD Thesis subject](../proposals/thesis-e-voting.pdf) for analyzing e-voting protocols with the Squirrel Prover.
 * [Internship proposal](../proposals/multi-system-squirrel.pdf) for formalizing in its theory the support of multi-term in the Squirrel Prover (higher-order logic, interactive prover, OCaml implementation).
+* (past offer already taken) [PhD Thesis subject](../proposals/thesis-secure-messaging.pdf) for analyzing post-quantum secure messaging protocols with the Squirrel Prover.
 * (past offer already taken) [Internship proposal](../proposals/signal-shared-key-cryptoverif.pdf) for cryptographic proof of Signal Messenger that takes into account key reuse, using CryptoVerif (cryptographic proofs).
 * (past offer already taken) [Internship proposal](../proposals/compo-squirrel.pdf) for integrating a composition result inside the theory of the Squirrel Prover.
 
