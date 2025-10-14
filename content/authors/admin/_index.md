@@ -58,7 +58,8 @@ email: "charlie.jacomme@inria.fr"
       <div class="col-md-5">
         <h3>Awards</h3>
         <ul class="ul-interests">          
-		 <li> 2 Distinguished paper awards at USENIX Security'23
+		 <li> Distinguished reviewer at USENIX Security'25 </li>		
+		 <li> 2 Distinguished paper awards at USENIX Security'23 </li>
           <li> PhD thesis Award of the <a href="https://gdr-securite.irisa.fr/prix-de-these/">GdR sécurité</a> </li>          
           <li>PhD thesis Accessit of the <a href="https://www.societe-informatique-de-france.fr/2022/01/recherche-prix-de-these-gilles-kahn-laureats-2021/">Gilles Kahn</a> award</li>          
         </ul>
@@ -66,6 +67,7 @@ email: "charlie.jacomme@inria.fr"
       <div class="col-md-5">
         <h3>Program committees</h3>
         <ul class="ul-interests">          
+           <li> <a href="https://eurocrypt.iacr.org/2026/callforpapers.php">EuroCrypt'26</a> </li>      			
            <li> <a href="https://www.usenix.org/conference/usenixsecurity24/call-for-papers">USENIX Security'24</a>,  <a href="https://www.usenix.org/conference/usenixsecurity25/call-for-papers">25</a> </li>      			
            <li>  <a href="https://www.ieee-security.org/TC/CSF2022/cfp.html">CSF'22</a>, <a href="https://www.ieee-security.org/TC/CSF2023/cfp.html">23</a>, <a href="https://www.ieee-security.org/TC/CSF2025/cfp.html">25</a> </li>		   
            <li> <a href="https://www.ieee-security.org/TC/EuroSP2023/">EuroS&P'23</a> </li>      		      
