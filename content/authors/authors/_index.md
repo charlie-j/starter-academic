@@ -55,15 +55,15 @@ email: "charlie.jacomme@inria.fr"
           </li>          
         </ul>
       </div>
-      <div class="col-md-5">
-        <h3>Awards</h3>
-        <ul class="ul-interests">          
-		 <li> Distinguished reviewer at USENIX Security'25 </li>		
-		 <li> 2 Distinguished paper awards at USENIX Security'23 </li>
-          <li> PhD thesis Award of the <a href="https://gdr-securite.irisa.fr/prix-de-these/">GdR sécurité</a> </li>          
-          <li>PhD thesis Accessit of the <a href="https://www.societe-informatique-de-france.fr/2022/01/recherche-prix-de-these-gilles-kahn-laureats-2021/">Gilles Kahn</a> award</li>          
-        </ul>
-      </div>
+      <!-- <div class="col-md-5"> -->
+      <!--   <h3>Awards</h3> -->
+      <!--   <ul class="ul-interests">           -->
+	  <!-- 	 <li> Distinguished reviewer at USENIX Security'25 </li>		 -->
+	  <!-- 	 <li> 2 Distinguished paper awards at USENIX Security'23 </li> -->
+      <!--     <li> PhD thesis Award of the <a href="https://gdr-securite.irisa.fr/prix-de-these/">GdR sécurité</a> </li>           -->
+      <!--     <li>PhD thesis Accessit of the <a href="https://www.societe-informatique-de-france.fr/2022/01/recherche-prix-de-these-gilles-kahn-laureats-2021/">Gilles Kahn</a> award</li>           -->
+      <!--   </ul> -->
+      <!-- </div> -->
       <div class="col-md-5">
         <h3>Program committees</h3>
         <ul class="ul-interests">          
