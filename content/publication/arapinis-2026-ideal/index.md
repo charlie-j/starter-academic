@@ -24,7 +24,7 @@ publishDate: '2026-04-02T12:40:05.975133Z'
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
 publication_types:
-- paper-conference
+- '1'
 
 # Publication name and optional abbreviated publication name.
 publication: '*CSF 2026--39th IEEE Computer Security Foundations Symposium*'
